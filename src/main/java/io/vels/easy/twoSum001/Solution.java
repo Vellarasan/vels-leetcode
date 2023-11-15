@@ -1,9 +1,13 @@
-package io.vels.twoSum001;
+package io.vels.easy.twoSum001;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author Vellarasan
+ * // https://leetcode.com/problems/two-sum/
+ */
 public class Solution {
     public static int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> numsMap = new HashMap<>();
@@ -19,7 +23,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        // https://leetcode.com/problems/two-sum/
         int[] nums = {2, 7, 11, 15}; // [3,2,4] // [3,3]
         int target = 9; // 6 // 6
         System.out.println(Arrays.toString(twoSum(nums, target)));
