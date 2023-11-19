@@ -1,4 +1,4 @@
-package io.vels.easy.romanToInteger003;
+package io.vels.easy.romantointeger003;
 
 import java.util.HashMap;
 import java.util.Map;

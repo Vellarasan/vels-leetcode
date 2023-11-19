@@ -1,4 +1,4 @@
-package io.vels.easy.palindromeNumber002;
+package io.vels.easy.palindromenumber002;
 
 /**
  * @author Vellarasan

@@ -1,4 +1,4 @@
-package io.vels.easy.twoSum001;
+package io.vels.easy.twosum001;
 
 import java.util.Arrays;
 import java.util.HashMap;
