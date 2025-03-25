@@ -1,4 +1,4 @@
-package io.vels.easy.longestcommonprefix;
+package io.vels.easy.longestcommonprefix014;
 
 import java.util.Arrays;
 

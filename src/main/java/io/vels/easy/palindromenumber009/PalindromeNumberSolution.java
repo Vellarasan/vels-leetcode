@@ -1,4 +1,4 @@
-package io.vels.easy.palindromenumber002;
+package io.vels.easy.palindromenumber009;
 
 /**
  * @author Vellarasan
